@@ -1,0 +1,23 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.device",
+    "content": {
+        "metaDataVersion": "1.0.0",
+        "name": "placeholder-device",
+        "version": "1.0.0",
+        "shortDescription": "This is a dummy device created only for use during PORTAL-382 development",
+
+        "boards": [
+			{
+				"name": "Endeavor",
+				"semverRange": "^5.4.0"
+			}
+		],
+        "dfp": {
+            "name": "Foster-family",
+            "semverRange": "^1.6.88"
+        },
+
+        "architecture": "32-bits"
+	}
+}
